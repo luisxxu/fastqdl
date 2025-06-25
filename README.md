@@ -1,6 +1,6 @@
 # fastqdl
 
-Input: a txt file that contains accessions to be downloaded line by line
+Input: a txt file that contains accessions to be downloaded line by line \
 Output: a folder of each accession with downloaded fastq files in gzip format
 
 # General Outline
